@@ -1,0 +1,1123 @@
+2022-06-27 23:03:34,091 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart started
+2022-06-27 23:03:34,404 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-27 23:03:34,413 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-27 23:03:37,216 - logger_File -INFO - User is on Retail web page
+2022-06-27 23:03:37,304 - logger_File -INFO - user clicked on laptop &NoteBook tab
+2022-06-27 23:03:39,709 - logger_File -INFO - user click on show all Laptop &NoteBook option
+2022-06-27 23:03:42,618 - logger_File -INFO - user clicked on mac book link successfully
+2022-06-27 23:03:42,665 - logger_File -INFO - user clicked on add to cart successfully
+2022-06-27 23:03:44,934 - logger_File -INFO - user should see 1 item on the cart.
+2022-06-27 23:03:44,977 - logger_File -INFO - user clicked on cart opotion
+2022-06-27 23:03:45,032 - logger_File -INFO - user removed the 1 item from cart.
+2022-06-27 23:03:45,184 - logger_File -INFO - cart get empty successfully
+2022-06-27 23:03:49,881 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-06-27 23:03:49,899 - logger_File -INFO - Scenario Product Comparison started
+2022-06-27 23:03:49,904 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-27 23:03:49,907 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-27 23:03:52,440 - logger_File -INFO - User is on Retail web page
+2022-06-27 23:03:52,515 - logger_File -INFO - user clicked on laptop &NoteBook tab
+2022-06-27 23:03:54,923 - logger_File -INFO - user click on show all Laptop &NoteBook option
+2022-06-27 23:04:01,077 - logger_File -INFO - user clicked on Macbook and Macbook air
+2022-06-27 23:04:05,182 - logger_File -INFO - user clicked on Macbook and Macbook air
+2022-06-27 23:04:07,493 - logger_File -INFO - user clicked on product comparison link
+2022-06-27 23:04:07,549 - logger_File -INFO - product comparison chart is displaye successfully
+2022-06-27 23:04:08,187 - logger_File -INFO - Scenario Product Comparison PASSED
+2022-06-27 23:04:08,200 - logger_File -INFO - Scenario Adding an item to Wish list started
+2022-06-27 23:04:08,208 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-27 23:04:08,213 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-27 23:04:10,659 - logger_File -INFO - User is on Retail web page
+2022-06-27 23:04:10,763 - logger_File -INFO - user clicked on laptop &NoteBook tab
+2022-06-27 23:04:13,164 - logger_File -INFO - user click on show all Laptop &NoteBook option
+2022-06-27 23:04:20,292 - logger_File -INFO - user need to login to his account
+2022-06-27 23:04:25,995 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-06-27 23:04:26,012 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-06-27 23:04:26,018 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-27 23:04:26,024 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-27 23:04:28,389 - logger_File -INFO - User is on Retail web page
+2022-06-27 23:04:28,468 - logger_File -INFO - user clicked on laptop &NoteBook tab
+2022-06-27 23:04:30,872 - logger_File -INFO - user click on show all Laptop &NoteBook option
+2022-06-27 23:04:33,901 - logger_File -INFO - user 
+2022-06-27 23:04:33,931 - logger_File -INFO - user should see price tag
+2022-06-27 23:04:38,581 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-06-28 10:11:28,453 - logger_File -INFO - Scenario User verify all items are present in Desktops tab started
+2022-06-28 10:11:28,892 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 10:11:28,901 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 10:11:31,971 - logger_File -INFO - User is on Retail web page
+2022-06-28 10:11:32,123 - logger_File -INFO - User clicked on desktop tab
+2022-06-28 10:11:33,599 - logger_File -INFO - User clicked on show all desktops tab
+2022-06-28 10:11:33,641 - logger_File -INFO - is present
+2022-06-28 10:11:33,659 - logger_File -INFO - Desktopsis present
+2022-06-28 10:11:33,673 - logger_File -INFO - Apple Cinema 30"is present
+2022-06-28 10:11:33,689 - logger_File -INFO - Canon EOS 5D Camerais present
+2022-06-28 10:11:33,707 - logger_File -INFO - HP LP3065is present
+2022-06-28 10:11:33,722 - logger_File -INFO - HTC Touch HDis present
+2022-06-28 10:11:33,737 - logger_File -INFO - iPhoneis present
+2022-06-28 10:11:33,755 - logger_File -INFO - iPod Classicis present
+2022-06-28 10:11:33,775 - logger_File -INFO - MacBookis present
+2022-06-28 10:11:33,793 - logger_File -INFO - MacBook Airis present
+2022-06-28 10:11:33,808 - logger_File -INFO - Palm Treo Prois present
+2022-06-28 10:11:33,826 - logger_File -INFO - Product 8is present
+2022-06-28 10:11:33,840 - logger_File -INFO - Samsung SyncMaster 941BWis present
+2022-06-28 10:11:33,856 - logger_File -INFO - Sony VAIOis present
+2022-06-28 10:11:34,707 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-28 10:11:34,712 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 10:11:34,717 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 10:11:37,995 - logger_File -INFO - User is on Retail web page
+2022-06-28 10:11:38,132 - logger_File -INFO - User clicked on desktop tab
+2022-06-28 10:11:39,879 - logger_File -INFO - User clicked on show all desktops tab
+2022-06-28 10:11:40,554 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-06-28 10:11:40,578 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-28 10:11:40,585 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 10:11:40,591 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 10:11:43,454 - logger_File -INFO - User is on Retail web page
+2022-06-28 10:11:43,633 - logger_File -INFO - User clicked on desktop tab
+2022-06-28 10:11:44,400 - logger_File -INFO - User clicked on show all desktops tab
+2022-06-28 10:11:45,105 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-06-28 10:11:45,127 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-06-28 10:11:45,134 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 10:11:45,138 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 10:11:47,965 - logger_File -INFO - User is on Retail web page
+2022-06-28 10:11:48,099 - logger_File -INFO - User clicked on desktop tab
+2022-06-28 10:11:48,870 - logger_File -INFO - User clicked on show all desktops tab
+2022-06-28 10:11:49,553 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab UNDEFINED
+2022-06-28 10:15:47,969 - logger_File -INFO - Scenario User verify all items are present in Desktops tab started
+2022-06-28 10:15:48,411 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 10:15:48,421 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 10:15:51,429 - logger_File -INFO - User is on Retail web page
+2022-06-28 10:15:51,586 - logger_File -INFO - User clicked on desktop tab
+2022-06-28 10:15:52,936 - logger_File -INFO - User clicked on show all desktops tab
+2022-06-28 10:15:52,988 - logger_File -INFO - is present
+2022-06-28 10:15:53,009 - logger_File -INFO - Desktopsis present
+2022-06-28 10:15:53,029 - logger_File -INFO - Apple Cinema 30"is present
+2022-06-28 10:15:53,048 - logger_File -INFO - Canon EOS 5D Camerais present
+2022-06-28 10:15:53,071 - logger_File -INFO - HP LP3065is present
+2022-06-28 10:15:53,089 - logger_File -INFO - HTC Touch HDis present
+2022-06-28 10:15:53,110 - logger_File -INFO - iPhoneis present
+2022-06-28 10:15:53,128 - logger_File -INFO - iPod Classicis present
+2022-06-28 10:15:53,148 - logger_File -INFO - MacBookis present
+2022-06-28 10:15:53,164 - logger_File -INFO - MacBook Airis present
+2022-06-28 10:15:53,183 - logger_File -INFO - Palm Treo Prois present
+2022-06-28 10:15:53,203 - logger_File -INFO - Product 8is present
+2022-06-28 10:15:53,221 - logger_File -INFO - Samsung SyncMaster 941BWis present
+2022-06-28 10:15:53,237 - logger_File -INFO - Sony VAIOis present
+2022-06-28 10:15:54,083 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-28 10:15:54,094 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 10:15:54,100 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 10:15:56,990 - logger_File -INFO - User is on Retail web page
+2022-06-28 10:15:57,126 - logger_File -INFO - User clicked on desktop tab
+2022-06-28 10:15:58,039 - logger_File -INFO - User clicked on show all desktops tab
+2022-06-28 10:15:58,719 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-06-28 10:15:58,742 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-28 10:15:58,749 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 10:15:58,755 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 10:16:01,323 - logger_File -INFO - User is on Retail web page
+2022-06-28 10:16:01,507 - logger_File -INFO - User clicked on desktop tab
+2022-06-28 10:16:02,391 - logger_File -INFO - User clicked on show all desktops tab
+2022-06-28 10:16:03,093 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-06-28 10:16:03,117 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-06-28 10:16:03,124 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 10:16:03,129 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 10:16:06,753 - logger_File -INFO - User is on Retail web page
+2022-06-28 10:16:06,885 - logger_File -INFO - User clicked on desktop tab
+2022-06-28 10:16:08,063 - logger_File -INFO - User clicked on show all desktops tab
+2022-06-28 10:16:08,745 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab UNDEFINED
+2022-06-28 10:17:23,792 - logger_File -INFO - Scenario User verify all items are present in Desktops tab started
+2022-06-28 10:17:24,224 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 10:17:24,234 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 10:17:27,254 - logger_File -INFO - User is on Retail web page
+2022-06-28 10:17:27,926 - logger_File -INFO - Scenario User verify all items are present in Desktops tab UNDEFINED
+2022-06-28 10:17:27,958 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-28 10:17:27,969 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 10:17:27,974 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 10:17:30,648 - logger_File -INFO - User is on Retail web page
+2022-06-28 10:17:31,318 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-06-28 10:17:31,339 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-28 10:17:31,345 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 10:17:31,349 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 10:17:35,631 - logger_File -INFO - User is on Retail web page
+2022-06-28 10:17:36,330 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-06-28 10:17:36,354 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-06-28 10:17:36,362 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 10:17:36,367 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 10:17:39,831 - logger_File -INFO - User is on Retail web page
+2022-06-28 10:17:40,535 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab UNDEFINED
+2022-06-28 11:21:53,165 - logger_File -INFO - Scenario User verify all items are present in Desktops tab started
+2022-06-28 11:21:53,592 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 11:21:53,601 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 11:21:56,216 - logger_File -INFO - User is on Retail web page
+2022-06-28 11:21:56,288 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-06-28 11:21:57,219 - logger_File -INFO - user clicked on show all desktop successfully
+2022-06-28 11:21:57,411 - logger_File -INFO - user was able to see the items are present in desktop 
+2022-06-28 11:21:58,099 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-06-28 11:21:58,149 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-28 11:21:58,157 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 11:21:58,161 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 11:22:00,558 - logger_File -INFO - User is on Retail web page
+2022-06-28 11:22:00,628 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-06-28 11:22:01,121 - logger_File -INFO - user clicked on show all desktop successfully
+2022-06-28 11:22:01,770 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-06-28 11:22:01,792 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-28 11:22:01,800 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 11:22:01,804 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 11:22:04,972 - logger_File -INFO - User is on Retail web page
+2022-06-28 11:22:05,029 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-06-28 11:22:05,507 - logger_File -INFO - user clicked on show all desktop successfully
+2022-06-28 11:22:06,196 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-06-28 11:22:06,220 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-06-28 11:22:06,225 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 11:22:06,228 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 11:22:09,025 - logger_File -INFO - User is on Retail web page
+2022-06-28 11:22:09,089 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-06-28 11:22:09,673 - logger_File -INFO - user clicked on show all desktop successfully
+2022-06-28 11:22:10,332 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab UNDEFINED
+2022-06-28 11:27:38,355 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-28 11:27:38,769 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 11:27:38,779 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 11:27:41,912 - logger_File -INFO - User is on Retail web page
+2022-06-28 11:27:41,980 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-06-28 11:27:42,607 - logger_File -INFO - user clicked on show all desktop successfully
+2022-06-28 11:27:43,304 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-06-28 12:40:54,305 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-28 12:40:54,778 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 12:40:54,786 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 12:40:59,097 - logger_File -INFO - User is on Retail web page
+2022-06-28 12:40:59,147 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-06-28 12:40:59,610 - logger_File -INFO - user clicked on show all desktop successfully
+2022-06-28 12:40:59,644 - logger_File -INFO - LPHP3065 was added to the cart successfully
+2022-06-28 12:43:01,469 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-28 12:43:01,877 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 12:43:01,887 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 12:43:05,095 - logger_File -INFO - User is on Retail web page
+2022-06-28 12:43:05,161 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-06-28 12:43:05,632 - logger_File -INFO - user clicked on show all desktop successfully
+2022-06-28 12:43:05,687 - logger_File -INFO - LPHP3065 was added to the cart successfully
+2022-06-28 12:44:34,834 - logger_File -INFO - Scenario User verify all items are present in Desktops tab started
+2022-06-28 12:44:35,264 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 12:44:35,273 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 12:44:39,140 - logger_File -INFO - User is on Retail web page
+2022-06-28 12:44:39,197 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-06-28 12:44:39,637 - logger_File -INFO - user clicked on show all desktop successfully
+2022-06-28 12:44:39,779 - logger_File -INFO - user was able to see the items are present in desktop 
+2022-06-28 12:44:40,423 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-06-28 12:44:40,450 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-28 12:44:40,456 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 12:44:40,464 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 12:44:43,501 - logger_File -INFO - User is on Retail web page
+2022-06-28 12:44:43,565 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-06-28 12:44:44,350 - logger_File -INFO - user clicked on show all desktop successfully
+2022-06-28 12:44:44,408 - logger_File -INFO - LPHP3065 was added to the cart successfully
+2022-06-28 12:44:59,937 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-28 12:44:59,947 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 12:44:59,953 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 12:45:02,583 - logger_File -INFO - User is on Retail web page
+2022-06-28 12:45:02,647 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-06-28 12:45:03,111 - logger_File -INFO - user clicked on show all desktop successfully
+2022-06-28 12:45:03,799 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-06-28 12:45:03,827 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-06-28 12:45:03,835 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 12:45:03,840 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 12:45:06,680 - logger_File -INFO - User is on Retail web page
+2022-06-28 12:45:06,751 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-06-28 12:45:07,213 - logger_File -INFO - user clicked on show all desktop successfully
+2022-06-28 12:45:07,897 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab UNDEFINED
+2022-06-28 12:50:40,352 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-28 12:50:40,795 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 12:50:40,804 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 12:50:44,762 - logger_File -INFO - User is on Retail web page
+2022-06-28 12:50:44,833 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-06-28 12:50:45,383 - logger_File -INFO - user clicked on show all desktop successfully
+2022-06-28 12:50:45,421 - logger_File -INFO - LPHP3065 was added to the cart successfully
+2022-06-28 13:00:38,066 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-28 13:00:38,487 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 13:00:38,496 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 13:00:41,428 - logger_File -INFO - User is on Retail web page
+2022-06-28 13:00:41,517 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-06-28 13:00:42,093 - logger_File -INFO - user clicked on show all desktop successfully
+2022-06-28 13:00:42,168 - logger_File -INFO - LPHP3065 was added to the cart successfully
+2022-06-28 13:00:43,227 - logger_File -INFO - Item successfully added to the cart
+2022-06-28 13:01:39,034 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-28 13:01:39,472 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 13:01:39,481 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 13:01:42,443 - logger_File -INFO - User is on Retail web page
+2022-06-28 13:01:42,517 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-06-28 13:01:43,287 - logger_File -INFO - user clicked on show all desktop successfully
+2022-06-28 13:01:43,343 - logger_File -INFO - LPHP3065 was added to the cart successfully
+2022-06-28 13:01:46,503 - logger_File -INFO - Item successfully added to the cart
+2022-06-28 13:05:55,436 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-06-28 13:05:55,855 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 13:05:55,862 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 13:05:58,863 - logger_File -INFO - User is on Retail web page
+2022-06-28 13:05:58,946 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-06-28 13:05:59,441 - logger_File -INFO - user clicked on show all desktop successfully
+2022-06-28 13:05:59,514 - logger_File -INFO - LPHP3065 was added to the cart successfully
+2022-06-28 13:06:02,818 - logger_File -INFO - Item successfully added to the cart
+2022-06-28 13:06:02,871 - logger_File -INFO - user clicked on add to cart button
+2022-06-28 13:06:07,649 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-06-28 13:11:33,375 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-28 13:11:33,826 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 13:11:33,835 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 13:11:37,103 - logger_File -INFO - User is on Retail web page
+2022-06-28 13:11:37,170 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-06-28 13:11:37,688 - logger_File -INFO - user clicked on show all desktop successfully
+2022-06-28 13:11:38,370 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-06-28 13:48:14,186 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-28 13:48:14,634 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 13:48:14,642 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 13:48:17,533 - logger_File -INFO - User is on Retail web page
+2022-06-28 13:48:17,608 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-06-28 13:48:18,541 - logger_File -INFO - user clicked on show all desktop successfully
+2022-06-28 13:48:18,601 - logger_File -INFO - user clicked camera Eos
+2022-06-28 13:53:00,032 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-28 13:53:00,484 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 13:53:00,498 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 13:53:03,319 - logger_File -INFO - User is on Retail web page
+2022-06-28 13:53:03,408 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-06-28 13:53:03,952 - logger_File -INFO - user clicked on show all desktop successfully
+2022-06-28 13:53:04,026 - logger_File -INFO - user clicked camera Eos
+2022-06-28 13:53:05,315 - logger_File -INFO - user select red color camera successfully
+2022-06-28 13:53:07,405 - logger_File -INFO - Item successfully added to the cart
+2022-06-28 13:53:07,443 - logger_File -INFO - user clicked on add to cart button
+2022-06-28 13:53:12,191 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-06-28 13:56:01,180 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-06-28 13:56:01,612 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 13:56:01,621 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 13:56:04,234 - logger_File -INFO - User is on Retail web page
+2022-06-28 13:56:04,317 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-06-28 13:56:04,823 - logger_File -INFO - user clicked on show all desktop successfully
+2022-06-28 13:56:05,503 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab UNDEFINED
+2022-06-28 18:52:10,695 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-06-28 18:52:13,394 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 18:52:13,412 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 18:52:14,598 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-06-28 18:52:17,458 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 18:52:17,477 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 18:52:17,708 - logger_File -INFO - User is on Retail web page
+2022-06-28 18:52:17,869 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-06-28 18:52:18,406 - logger_File -INFO - user clicked on show all desktop successfully
+2022-06-28 18:52:20,118 - logger_File -INFO - user clicked on canon amera successfully
+2022-06-28 18:52:20,219 - logger_File -INFO - user clicked on Reeview link successfully
+2022-06-28 18:52:20,960 - logger_File -INFO - user write a review successfully
+2022-06-28 18:52:21,072 - logger_File -INFO - User is on Retail web page
+2022-06-28 18:52:21,170 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-06-28 18:52:21,656 - logger_File -INFO - user clicked on show all desktop successfully
+2022-06-28 18:52:22,817 - logger_File -INFO - user clicked on canon amera successfully
+2022-06-28 18:52:22,909 - logger_File -INFO - user clicked on Reeview link successfully
+2022-06-28 18:52:23,490 - logger_File -INFO - user write a review successfully
+2022-06-28 18:57:09,155 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-06-28 18:57:09,505 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 18:57:09,514 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 18:57:12,048 - logger_File -INFO - User is on Retail web page
+2022-06-28 18:57:12,137 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-06-28 18:57:12,615 - logger_File -INFO - user clicked on show all desktop successfully
+2022-06-28 18:57:13,612 - logger_File -INFO - user clicked on canon amera successfully
+2022-06-28 18:57:13,660 - logger_File -INFO - user clicked on Reeview link successfully
+2022-06-28 18:57:13,961 - logger_File -INFO - user write a review successfully
+2022-06-28 18:57:14,006 - logger_File -INFO - user clicked on continue button successfully
+2022-06-28 19:00:07,773 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-06-28 19:00:08,133 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 19:00:08,141 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 19:00:10,712 - logger_File -INFO - User is on Retail web page
+2022-06-28 19:00:10,797 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-06-28 19:00:11,639 - logger_File -INFO - user clicked on show all desktop successfully
+2022-06-28 19:00:12,468 - logger_File -INFO - user clicked on canon amera successfully
+2022-06-28 19:00:12,513 - logger_File -INFO - user clicked on Reeview link successfully
+2022-06-28 19:00:12,879 - logger_File -INFO - user write a review successfully
+2022-06-28 19:00:12,922 - logger_File -INFO - user clicked on continue button successfully
+2022-06-28 19:01:07,500 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-06-28 19:01:07,844 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-28 19:01:07,852 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-28 19:01:10,771 - logger_File -INFO - User is on Retail web page
+2022-06-28 19:01:10,840 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-06-28 19:01:11,318 - logger_File -INFO - user clicked on show all desktop successfully
+2022-06-28 19:01:12,367 - logger_File -INFO - user clicked on canon amera successfully
+2022-06-28 19:01:12,427 - logger_File -INFO - user clicked on Reeview link successfully
+2022-06-28 19:01:12,764 - logger_File -INFO - user write a review successfully
+2022-06-28 19:01:12,806 - logger_File -INFO - user clicked on continue button successfully
+2022-06-28 19:01:12,956 - logger_File -INFO - user verified success message of reviewing successfully
+2022-06-28 19:01:17,677 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-05 18:27:35,688 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-05 18:27:39,243 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-05 18:27:39,257 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2022-07-05 18:27:39,548 - io.github.bonigarcia.wdm.Downloader -INFO - Downloading https://chromedriver.storage.googleapis.com/103.0.5060.53/chromedriver_win32.zip
+2022-07-05 18:27:39,799 - io.github.bonigarcia.wdm.Downloader -INFO - Extracting binary from compressed file chromedriver_win32.zip
+2022-07-05 18:27:39,884 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-05 18:27:42,742 - logger_File -INFO - User is on Retail web page
+2022-07-05 18:27:42,808 - logger_File -INFO - user clicked on my account successfully
+2022-07-05 18:28:15,658 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-05 18:28:15,661 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-05 18:28:15,664 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-05 18:28:17,942 - logger_File -INFO - User is on Retail web page
+2022-07-05 18:28:18,016 - logger_File -INFO - user clicked on my account successfully
+2022-07-05 18:28:29,806 - logger_File -INFO - Scenario Edit your account Information started
+2022-07-05 18:28:29,815 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-05 18:28:29,819 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-05 18:28:32,095 - logger_File -INFO - User is on Retail web page
+2022-07-05 18:28:32,156 - logger_File -INFO - user clicked on my account successfully
+2022-07-05 18:29:00,509 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-05 18:29:00,879 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-05 18:29:00,887 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-05 18:29:03,822 - logger_File -INFO - User is on Retail web page
+2022-07-05 18:29:03,891 - logger_File -INFO - user clicked on my account successfully
+2022-07-05 18:33:10,803 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-05 18:33:11,173 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-05 18:33:11,180 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-05 18:33:13,675 - logger_File -INFO - User is on Retail web page
+2022-07-05 18:33:13,745 - logger_File -INFO - user clicked on my account successfully
+2022-07-05 18:33:46,538 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-05 18:33:46,542 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-05 18:33:46,545 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-05 18:33:48,778 - logger_File -INFO - User is on Retail web page
+2022-07-05 18:33:48,836 - logger_File -INFO - user clicked on my account successfully
+2022-07-05 18:34:14,387 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-05 18:34:14,733 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-05 18:34:14,741 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-05 18:34:17,236 - logger_File -INFO - User is on Retail web page
+2022-07-05 18:34:17,297 - logger_File -INFO - user clicked on my account successfully
+2022-07-05 18:34:50,178 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-05 18:34:50,185 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-05 18:34:50,189 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-05 18:34:52,466 - logger_File -INFO - User is on Retail web page
+2022-07-05 18:34:52,528 - logger_File -INFO - user clicked on my account successfully
+2022-07-05 18:35:35,884 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-05 18:35:36,228 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-05 18:35:36,236 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-05 18:35:38,687 - logger_File -INFO - User is on Retail web page
+2022-07-05 18:35:38,748 - logger_File -INFO - user clicked on my account successfully
+2022-07-05 18:36:11,725 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-05 18:36:11,729 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-05 18:36:11,732 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-05 18:36:14,035 - logger_File -INFO - User is on Retail web page
+2022-07-05 18:36:14,090 - logger_File -INFO - user clicked on my account successfully
+2022-07-05 18:38:13,798 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-05 18:38:14,150 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-05 18:38:14,158 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-05 18:38:16,608 - logger_File -INFO - User is on Retail web page
+2022-07-05 18:38:16,693 - logger_File -INFO - user clicked on my account successfully
+2022-07-05 18:38:51,512 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-05 18:38:51,517 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-05 18:38:51,519 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-05 18:38:53,858 - logger_File -INFO - User is on Retail web page
+2022-07-05 18:38:53,912 - logger_File -INFO - user clicked on my account successfully
+2022-07-05 18:39:30,832 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-05 18:39:31,177 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-05 18:39:31,185 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-05 18:39:33,639 - logger_File -INFO - User is on Retail web page
+2022-07-05 18:39:33,697 - logger_File -INFO - user clicked on my account successfully
+2022-07-05 18:39:38,601 - logger_File -INFO - user clicked on register for an Affiliate Account
+2022-07-05 18:39:49,159 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-07-05 18:39:49,174 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-05 18:39:49,181 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-05 18:39:49,185 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-05 18:39:51,608 - logger_File -INFO - User is on Retail web page
+2022-07-05 18:39:51,663 - logger_File -INFO - user clicked on my account successfully
+2022-07-05 18:39:59,935 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-07-05 18:39:59,949 - logger_File -INFO - Scenario Edit your account Information started
+2022-07-05 18:39:59,956 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-05 18:39:59,961 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-05 18:40:02,249 - logger_File -INFO - User is on Retail web page
+2022-07-05 18:40:02,309 - logger_File -INFO - user clicked on my account successfully
+2022-07-05 18:40:07,530 - logger_File -INFO - user clicked on edit account info
+2022-07-05 18:44:02,437 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-05 18:44:02,790 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-05 18:44:02,798 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-05 18:44:05,355 - logger_File -INFO - User is on Retail web page
+2022-07-05 18:44:05,412 - logger_File -INFO - user clicked on my account successfully
+2022-07-05 18:44:40,767 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-05 18:44:41,115 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-05 18:44:41,123 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-05 18:44:43,620 - logger_File -INFO - User is on Retail web page
+2022-07-05 18:44:43,678 - logger_File -INFO - user clicked on my account successfully
+2022-07-05 18:45:18,614 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-05 18:45:18,618 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-05 18:45:18,624 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-05 18:45:20,952 - logger_File -INFO - User is on Retail web page
+2022-07-05 18:45:21,007 - logger_File -INFO - user clicked on my account successfully
+2022-07-05 18:45:29,355 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-07-05 18:45:29,369 - logger_File -INFO - Scenario Edit your account Information started
+2022-07-05 18:45:29,376 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-05 18:45:29,381 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-05 18:45:31,660 - logger_File -INFO - User is on Retail web page
+2022-07-05 18:45:31,719 - logger_File -INFO - user clicked on my account successfully
+2022-07-05 18:45:36,963 - logger_File -INFO - user clicked on edit account info
+2022-07-05 18:45:43,384 - logger_File -INFO - Scenario Edit your account Information PASSED
+2022-07-06 18:03:43,070 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-06 18:03:45,740 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-06 18:03:45,757 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-06 18:03:49,204 - logger_File -INFO - User is on Retail web page
+2022-07-06 18:03:49,365 - logger_File -INFO - user clicked on my account successfully
+2022-07-06 18:04:09,595 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-06 18:04:09,613 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-06 18:04:09,618 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-06 18:04:11,969 - logger_File -INFO - User is on Retail web page
+2022-07-06 18:04:12,030 - logger_File -INFO - user clicked on my account successfully
+2022-07-06 18:04:38,361 - logger_File -INFO - Scenario Edit your account Information started
+2022-07-06 18:04:38,367 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-06 18:04:38,393 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-06 18:04:41,093 - logger_File -INFO - User is on Retail web page
+2022-07-06 18:04:41,154 - logger_File -INFO - user clicked on my account successfully
+2022-07-06 18:08:25,196 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-06 18:08:25,581 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-06 18:08:25,590 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-06 18:08:28,025 - logger_File -INFO - User is on Retail web page
+2022-07-06 18:08:28,088 - logger_File -INFO - user clicked on my account successfully
+2022-07-06 18:08:33,005 - logger_File -INFO - user clicked on register for an Affiliate Account
+2022-07-06 18:08:43,484 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-07-06 18:08:43,505 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-06 18:08:43,513 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-06 18:08:43,521 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-06 18:08:45,965 - logger_File -INFO - User is on Retail web page
+2022-07-06 18:08:46,031 - logger_File -INFO - user clicked on my account successfully
+2022-07-06 18:08:54,217 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-07-06 18:08:54,232 - logger_File -INFO - Scenario Edit your account Information started
+2022-07-06 18:08:54,241 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-06 18:08:54,246 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-06 18:08:56,673 - logger_File -INFO - User is on Retail web page
+2022-07-06 18:08:56,735 - logger_File -INFO - user clicked on my account successfully
+2022-07-06 18:09:02,077 - logger_File -INFO - user clicked on edit account info
+2022-07-06 18:10:41,732 - logger_File -INFO - Scenario Edit your account Information started
+2022-07-06 18:10:42,298 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-06 18:10:42,309 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-06 18:10:45,033 - logger_File -INFO - User is on Retail web page
+2022-07-06 18:10:45,113 - logger_File -INFO - user clicked on my account successfully
+2022-07-06 18:10:50,343 - logger_File -INFO - user clicked on edit account info
+2022-07-06 18:10:56,633 - logger_File -INFO - Scenario Edit your account Information PASSED
+2022-07-06 18:13:37,298 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-06 18:13:37,711 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-06 18:13:37,720 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-06 18:13:40,240 - logger_File -INFO - User is on Retail web page
+2022-07-06 18:13:40,305 - logger_File -INFO - user clicked on my account successfully
+2022-07-06 18:13:45,237 - logger_File -INFO - user clicked on register for an Affiliate Account
+2022-07-06 18:13:55,826 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-07-06 18:13:55,847 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-06 18:13:55,854 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-06 18:13:55,860 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-06 18:13:58,869 - logger_File -INFO - User is on Retail web page
+2022-07-06 18:13:58,926 - logger_File -INFO - user clicked on my account successfully
+2022-07-06 18:14:07,174 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-07-06 18:14:07,204 - logger_File -INFO - Scenario Edit your account Information started
+2022-07-06 18:14:07,212 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-06 18:14:07,218 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-06 18:14:09,603 - logger_File -INFO - User is on Retail web page
+2022-07-06 18:14:09,663 - logger_File -INFO - user clicked on my account successfully
+2022-07-06 18:14:14,862 - logger_File -INFO - user clicked on edit account info
+2022-07-06 18:14:21,189 - logger_File -INFO - Scenario Edit your account Information PASSED
+2022-07-07 19:47:42,414 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-07 19:47:43,342 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-07 19:47:43,353 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-07 19:47:46,488 - logger_File -INFO - User is on Retail web page
+2022-07-07 19:47:46,588 - logger_File -INFO - user clicked on my account successfully
+2022-07-07 19:47:59,211 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-07 19:47:59,217 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-07 19:47:59,223 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-07 19:48:01,644 - logger_File -INFO - Scenario Edit your account Information started
+2022-07-07 19:48:01,670 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-07 19:48:01,684 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-07 19:48:26,651 - logger_File -INFO - Scenario User verify currency values change started
+2022-07-07 19:48:27,114 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-07 19:48:27,124 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-07 19:48:29,733 - logger_File -INFO - User is on Retail web page
+2022-07-07 19:48:29,829 - logger_File -INFO - User clicked on currency!
+2022-07-07 19:48:30,531 - logger_File -INFO - user clicked on Euro dropdown
+2022-07-07 19:48:32,613 - logger_File -INFO - user change currency to Euro successfully
+2022-07-07 19:48:33,308 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-07-07 19:48:33,331 - logger_File -INFO - Scenario User empty Shopping cart message displays started
+2022-07-07 19:48:33,339 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-07 19:48:33,349 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-07 19:48:35,804 - logger_File -INFO - User is on Retail web page
+2022-07-07 19:48:37,873 - logger_File -INFO - user see on empty cart
+2022-07-07 19:48:37,944 - logger_File -INFO - user shopping cart is empty
+2022-07-07 19:48:38,724 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-07-07 19:49:50,613 - logger_File -INFO - Scenario User verify currency values change started
+2022-07-07 19:49:51,086 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-07 19:49:51,096 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-07 19:49:53,842 - logger_File -INFO - User is on Retail web page
+2022-07-07 19:49:53,943 - logger_File -INFO - User clicked on currency!
+2022-07-07 19:49:54,583 - logger_File -INFO - user clicked on Euro dropdown
+2022-07-07 19:49:56,659 - logger_File -INFO - user change currency to Euro successfully
+2022-07-07 19:49:57,351 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-07-07 19:49:57,375 - logger_File -INFO - Scenario User empty Shopping cart message displays started
+2022-07-07 19:49:57,382 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-07 19:49:57,389 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-07 19:49:59,807 - logger_File -INFO - User is on Retail web page
+2022-07-07 19:50:01,877 - logger_File -INFO - user see on empty cart
+2022-07-07 19:50:01,947 - logger_File -INFO - user shopping cart is empty
+2022-07-07 19:50:02,704 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-07-07 19:57:55,689 - logger_File -INFO - Scenario User verify currency values change started
+2022-07-07 19:57:56,094 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-07 19:57:56,103 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-07 19:57:58,734 - logger_File -INFO - User is on Retail web page
+2022-07-07 19:57:58,803 - logger_File -INFO - User clicked on currency!
+2022-07-07 19:57:59,352 - logger_File -INFO - user clicked on Euro dropdown
+2022-07-07 19:58:01,424 - logger_File -INFO - user change currency to Euro successfully
+2022-07-07 19:58:02,132 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-07-07 19:58:02,157 - logger_File -INFO - Scenario User empty Shopping cart message displays started
+2022-07-07 19:58:02,166 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-07 19:58:02,175 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-07 19:58:04,886 - logger_File -INFO - User is on Retail web page
+2022-07-07 19:58:06,964 - logger_File -INFO - user see on empty cart
+2022-07-07 19:58:07,022 - logger_File -INFO - user shopping cart is empty
+2022-07-07 19:58:08,092 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-07-17 18:45:38,136 - logger_File -INFO - Scenario User verify currency values change started
+2022-07-17 18:45:43,930 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-17 18:45:43,944 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-17 18:45:46,923 - logger_File -INFO - User is on Retail web page
+2022-07-17 18:45:46,961 - logger_File -INFO - User clicked on currency!
+2022-07-17 18:45:47,728 - logger_File -INFO - user clicked on Euro dropdown
+2022-07-17 18:45:49,795 - logger_File -INFO - user change currency to Euro successfully
+2022-07-17 18:45:50,801 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-07-17 18:45:50,831 - logger_File -INFO - Scenario User empty Shopping cart message displays started
+2022-07-17 18:45:50,839 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-17 18:45:50,848 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-17 18:45:53,369 - logger_File -INFO - User is on Retail web page
+2022-07-17 18:45:55,446 - logger_File -INFO - user see on empty cart
+2022-07-17 18:45:55,487 - logger_File -INFO - user shopping cart is empty
+2022-07-17 18:45:56,810 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-07-17 18:55:46,765 - logger_File -INFO - Scenario User verify currency values change started
+2022-07-17 18:55:47,110 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-17 18:55:47,119 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-17 18:55:49,745 - logger_File -INFO - User is on Retail web page
+2022-07-17 18:55:49,786 - logger_File -INFO - User clicked on currency!
+2022-07-17 18:55:50,483 - logger_File -INFO - user clicked on Euro dropdown
+2022-07-17 18:55:52,545 - logger_File -INFO - user change currency to Euro successfully
+2022-07-17 18:55:53,472 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-07-17 18:55:53,496 - logger_File -INFO - Scenario User empty Shopping cart message displays started
+2022-07-17 18:55:53,502 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-17 18:55:53,507 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-17 18:55:55,943 - logger_File -INFO - User is on Retail web page
+2022-07-17 18:55:58,018 - logger_File -INFO - user see on empty cart
+2022-07-17 18:55:58,056 - logger_File -INFO - user shopping cart is empty
+2022-07-17 18:55:59,319 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-07-17 18:57:30,206 - logger_File -INFO - Scenario User verify currency values change started
+2022-07-17 18:57:30,537 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-17 18:57:30,546 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-17 18:57:33,214 - logger_File -INFO - User is on Retail web page
+2022-07-17 18:57:33,268 - logger_File -INFO - User clicked on currency!
+2022-07-17 18:57:33,783 - logger_File -INFO - user clicked on Euro dropdown
+2022-07-17 18:57:35,842 - logger_File -INFO - user change currency to Euro successfully
+2022-07-17 18:57:36,694 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-07-17 18:57:36,716 - logger_File -INFO - Scenario User empty Shopping cart message displays started
+2022-07-17 18:57:36,722 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-17 18:57:36,727 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-17 18:57:39,079 - logger_File -INFO - User is on Retail web page
+2022-07-17 18:57:41,151 - logger_File -INFO - user see on empty cart
+2022-07-17 18:57:41,190 - logger_File -INFO - user shopping cart is empty
+2022-07-17 18:57:42,298 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-07-17 19:03:05,082 - logger_File -INFO - Scenario User verify currency values change started
+2022-07-17 19:03:05,421 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-17 19:03:05,429 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-17 19:03:08,133 - logger_File -INFO - User is on Retail web page
+2022-07-17 19:03:08,177 - logger_File -INFO - User clicked on currency!
+2022-07-17 19:03:08,724 - logger_File -INFO - user clicked on Euro dropdown
+2022-07-17 19:03:10,787 - logger_File -INFO - user change currency to Euro successfully
+2022-07-17 19:03:11,684 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-07-17 19:03:11,706 - logger_File -INFO - Scenario User empty Shopping cart message displays started
+2022-07-17 19:03:11,711 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-17 19:03:11,716 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-17 19:03:14,291 - logger_File -INFO - User is on Retail web page
+2022-07-17 19:03:16,364 - logger_File -INFO - user see on empty cart
+2022-07-17 19:03:16,401 - logger_File -INFO - user shopping cart is empty
+2022-07-17 19:03:17,680 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-07-18 12:29:27,121 - logger_File -INFO - Scenario User verify currency values change started
+2022-07-18 12:29:27,542 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-18 12:29:27,553 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-18 12:29:30,574 - logger_File -INFO - User is on Retail web page
+2022-07-18 12:29:30,630 - logger_File -INFO - User clicked on currency!
+2022-07-18 12:29:30,791 - logger_File -INFO - user clicked on Euro dropdown
+2022-07-18 12:29:32,850 - logger_File -INFO - user change currency to Euro successfully
+2022-07-18 12:29:33,878 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-07-18 12:29:33,902 - logger_File -INFO - Scenario User empty Shopping cart message displays started
+2022-07-18 12:29:33,907 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-18 12:29:33,911 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-18 12:29:36,318 - logger_File -INFO - User is on Retail web page
+2022-07-18 12:29:38,388 - logger_File -INFO - user see on empty cart
+2022-07-18 12:29:38,426 - logger_File -INFO - user shopping cart is empty
+2022-07-18 12:29:39,418 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-07-18 12:36:02,461 - logger_File -INFO - Scenario User verify currency values change started
+2022-07-18 12:36:02,829 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-18 12:36:02,837 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-18 12:36:06,417 - logger_File -INFO - User is on Retail web page
+2022-07-18 12:36:06,455 - logger_File -INFO - User clicked on currency!
+2022-07-18 12:36:07,470 - logger_File -INFO - Scenario User verify currency values change FAILED
+2022-07-18 12:36:07,497 - logger_File -INFO - Scenario User empty Shopping cart message displays started
+2022-07-18 12:36:07,501 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-18 12:36:07,506 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-18 12:36:10,081 - logger_File -INFO - User is on Retail web page
+2022-07-18 12:36:12,143 - logger_File -INFO - user see on empty cart
+2022-07-18 12:36:12,179 - logger_File -INFO - user shopping cart is empty
+2022-07-18 12:36:13,161 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-07-18 12:37:20,275 - logger_File -INFO - Scenario User verify currency values change started
+2022-07-18 12:37:20,629 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-18 12:37:20,637 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-18 12:37:23,280 - logger_File -INFO - User is on Retail web page
+2022-07-18 12:37:23,314 - logger_File -INFO - User clicked on currency!
+2022-07-18 12:37:23,461 - logger_File -INFO - user clicked on Euro dropdown
+2022-07-18 12:37:25,524 - logger_File -INFO - user change currency to Euro successfully
+2022-07-18 12:37:26,455 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-07-18 12:37:26,475 - logger_File -INFO - Scenario User empty Shopping cart message displays started
+2022-07-18 12:37:26,481 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-18 12:37:26,486 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-18 12:37:30,727 - logger_File -INFO - User is on Retail web page
+2022-07-18 12:37:32,779 - logger_File -INFO - user see on empty cart
+2022-07-18 12:37:32,817 - logger_File -INFO - user shopping cart is empty
+2022-07-18 12:37:33,780 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-07-18 16:53:42,629 - logger_File -INFO - Scenario User verify currency values change started
+2022-07-18 16:53:43,095 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-18 16:53:43,103 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-18 16:53:45,935 - logger_File -INFO - User is on Retail web page
+2022-07-18 16:53:45,975 - logger_File -INFO - User clicked on currency!
+2022-07-18 16:53:46,201 - logger_File -INFO - user clicked on Euro dropdown
+2022-07-18 16:53:48,268 - logger_File -INFO - user change currency to Euro successfully
+2022-07-18 16:53:49,239 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-07-18 16:53:49,277 - logger_File -INFO - Scenario User empty Shopping cart message displays started
+2022-07-18 16:53:49,288 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-18 16:53:49,304 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-18 16:53:51,779 - logger_File -INFO - User is on Retail web page
+2022-07-18 16:53:53,849 - logger_File -INFO - user see on empty cart
+2022-07-18 16:53:53,892 - logger_File -INFO - user shopping cart is empty
+2022-07-18 16:53:55,030 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-07-19 12:38:13,721 - logger_File -INFO - Scenario User verify all items are present in Desktops tab started
+2022-07-19 12:38:14,629 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-19 12:38:14,642 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-19 12:38:17,560 - logger_File -INFO - User is on Retail web page
+2022-07-19 12:38:17,653 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-07-19 12:38:18,166 - logger_File -INFO - user clicked on show all desktop successfully
+2022-07-19 12:38:18,436 - logger_File -INFO - user was able to see the items are present in desktop 
+2022-07-19 12:38:19,313 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-07-19 12:38:19,340 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-07-19 12:38:19,348 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-19 12:38:19,354 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-19 12:38:21,941 - logger_File -INFO - User is on Retail web page
+2022-07-19 12:38:22,018 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-07-19 12:38:22,659 - logger_File -INFO - user clicked on show all desktop successfully
+2022-07-19 12:38:22,737 - logger_File -INFO - LPHP3065 was added to the cart successfully
+2022-07-19 12:38:25,906 - logger_File -INFO - Item successfully added to the cart
+2022-07-19 12:38:25,970 - logger_File -INFO - user clicked on add to cart button
+2022-07-19 12:38:31,047 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-07-19 12:38:31,059 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-19 12:38:31,063 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-19 12:38:31,067 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-19 12:38:33,990 - logger_File -INFO - User is on Retail web page
+2022-07-19 12:38:34,075 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-07-19 12:38:34,627 - logger_File -INFO - user clicked on show all desktop successfully
+2022-07-19 12:38:34,730 - logger_File -INFO - user clicked camera Eos
+2022-07-19 12:38:36,030 - logger_File -INFO - user select red color camera successfully
+2022-07-19 12:38:38,440 - logger_File -INFO - Item successfully added to the cart
+2022-07-19 12:38:38,507 - logger_File -INFO - user clicked on add to cart button
+2022-07-19 12:38:43,587 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-07-19 12:38:43,602 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-19 12:38:43,609 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-19 12:38:43,614 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-19 12:38:46,822 - logger_File -INFO - User is on Retail web page
+2022-07-19 12:38:46,889 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-07-19 12:38:47,412 - logger_File -INFO - user clicked on show all desktop successfully
+2022-07-19 12:38:48,485 - logger_File -INFO - user clicked on canon amera successfully
+2022-07-19 12:38:48,559 - logger_File -INFO - user clicked on Reeview link successfully
+2022-07-19 12:38:48,994 - logger_File -INFO - user write a review successfully
+2022-07-19 12:38:49,038 - logger_File -INFO - user clicked on continue button successfully
+2022-07-19 12:38:49,177 - logger_File -INFO - user verified success message of reviewing successfully
+2022-07-19 12:38:54,034 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-19 12:40:45,794 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart started
+2022-07-19 12:40:46,243 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-19 12:40:46,251 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-19 12:40:49,274 - logger_File -INFO - User is on Retail web page
+2022-07-19 12:40:49,350 - logger_File -INFO - user clicked on laptop &NoteBook tab
+2022-07-19 12:40:51,732 - logger_File -INFO - user click on show all Laptop &NoteBook option
+2022-07-19 12:40:54,766 - logger_File -INFO - user clicked on mac book link successfully
+2022-07-19 12:40:54,828 - logger_File -INFO - user clicked on add to cart successfully
+2022-07-19 12:40:57,101 - logger_File -INFO - user should see 1 item on the cart.
+2022-07-19 12:40:57,149 - logger_File -INFO - user clicked on cart opotion
+2022-07-19 12:40:57,201 - logger_File -INFO - user removed the 1 item from cart.
+2022-07-19 12:40:57,352 - logger_File -INFO - cart get empty successfully
+2022-07-19 12:41:02,232 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-07-19 12:41:02,247 - logger_File -INFO - Scenario Product Comparison started
+2022-07-19 12:41:02,252 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-19 12:41:02,255 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-19 12:41:05,018 - logger_File -INFO - User is on Retail web page
+2022-07-19 12:41:05,097 - logger_File -INFO - user clicked on laptop &NoteBook tab
+2022-07-19 12:41:07,472 - logger_File -INFO - user click on show all Laptop &NoteBook option
+2022-07-19 12:41:13,624 - logger_File -INFO - user clicked on Macbook and Macbook air
+2022-07-19 12:41:17,751 - logger_File -INFO - user clicked on Macbook and Macbook air
+2022-07-19 12:41:20,046 - logger_File -INFO - user clicked on product comparison link
+2022-07-19 12:41:20,092 - logger_File -INFO - product comparison chart is displaye successfully
+2022-07-19 12:41:20,949 - logger_File -INFO - Scenario Product Comparison PASSED
+2022-07-19 12:41:20,964 - logger_File -INFO - Scenario Adding an item to Wish list started
+2022-07-19 12:41:20,973 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-19 12:41:20,978 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-19 12:41:24,912 - logger_File -INFO - User is on Retail web page
+2022-07-19 12:41:24,985 - logger_File -INFO - user clicked on laptop &NoteBook tab
+2022-07-19 12:41:27,381 - logger_File -INFO - user click on show all Laptop &NoteBook option
+2022-07-19 12:41:34,495 - logger_File -INFO - user need to login to his account
+2022-07-19 12:41:40,331 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-07-19 12:41:40,348 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-07-19 12:41:40,353 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-19 12:41:40,358 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-19 12:41:43,197 - logger_File -INFO - User is on Retail web page
+2022-07-19 12:41:43,287 - logger_File -INFO - user clicked on laptop &NoteBook tab
+2022-07-19 12:41:45,707 - logger_File -INFO - user click on show all Laptop &NoteBook option
+2022-07-19 12:41:48,837 - logger_File -INFO - user 
+2022-07-19 12:41:48,875 - logger_File -INFO - user should see price tag
+2022-07-19 12:41:53,829 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-07-19 13:01:54,196 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart started
+2022-07-19 13:01:54,635 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-19 13:01:54,643 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-19 13:01:57,752 - logger_File -INFO - User is on Retail web page
+2022-07-19 13:01:57,821 - logger_File -INFO - user clicked on laptop &NoteBook tab
+2022-07-19 13:01:58,350 - logger_File -INFO - user click on show all Laptop &NoteBook option
+2022-07-19 13:01:59,315 - logger_File -INFO - user clicked on mac book link successfully
+2022-07-19 13:01:59,371 - logger_File -INFO - user clicked on add to cart successfully
+2022-07-19 13:01:59,587 - logger_File -INFO - user should see 1 item on the cart.
+2022-07-19 13:01:59,646 - logger_File -INFO - user clicked on cart opotion
+2022-07-19 13:01:59,695 - logger_File -INFO - user removed the 1 item from cart.
+2022-07-19 13:01:59,848 - logger_File -INFO - cart get empty successfully
+2022-07-19 13:02:04,750 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-07-19 13:02:04,763 - logger_File -INFO - Scenario Product Comparison started
+2022-07-19 13:02:04,768 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-19 13:02:04,771 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-19 13:02:07,464 - logger_File -INFO - User is on Retail web page
+2022-07-19 13:02:07,536 - logger_File -INFO - user clicked on laptop &NoteBook tab
+2022-07-19 13:02:07,923 - logger_File -INFO - user click on show all Laptop &NoteBook option
+2022-07-19 13:02:12,060 - logger_File -INFO - user clicked on Macbook and Macbook air
+2022-07-19 13:02:16,164 - logger_File -INFO - user clicked on Macbook and Macbook air
+2022-07-19 13:02:18,461 - logger_File -INFO - user clicked on product comparison link
+2022-07-19 13:02:18,502 - logger_File -INFO - product comparison chart is displaye successfully
+2022-07-19 13:02:19,351 - logger_File -INFO - Scenario Product Comparison PASSED
+2022-07-19 13:02:19,400 - logger_File -INFO - Scenario Adding an item to Wish list started
+2022-07-19 13:02:19,412 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-19 13:02:19,420 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-19 13:02:22,398 - logger_File -INFO - User is on Retail web page
+2022-07-19 13:02:22,467 - logger_File -INFO - user clicked on laptop &NoteBook tab
+2022-07-19 13:02:22,869 - logger_File -INFO - user click on show all Laptop &NoteBook option
+2022-07-19 13:02:23,922 - logger_File -INFO - Scenario Adding an item to Wish list UNDEFINED
+2022-07-19 13:02:23,943 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-07-19 13:02:23,951 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-19 13:02:23,956 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-19 13:02:26,841 - logger_File -INFO - User is on Retail web page
+2022-07-19 13:02:26,902 - logger_File -INFO - user clicked on laptop &NoteBook tab
+2022-07-19 13:02:27,276 - logger_File -INFO - user click on show all Laptop &NoteBook option
+2022-07-19 13:02:28,460 - logger_File -INFO - user 
+2022-07-19 13:02:28,511 - logger_File -INFO - user should see price tag
+2022-07-19 13:02:33,492 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-07-19 13:05:00,513 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart started
+2022-07-19 13:05:00,920 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-19 13:05:00,930 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-19 13:05:03,920 - logger_File -INFO - User is on Retail web page
+2022-07-19 13:05:03,990 - logger_File -INFO - user clicked on laptop &NoteBook tab
+2022-07-19 13:05:04,393 - logger_File -INFO - user click on show all Laptop &NoteBook option
+2022-07-19 13:05:05,363 - logger_File -INFO - user clicked on mac book link successfully
+2022-07-19 13:05:05,413 - logger_File -INFO - user clicked on add to cart successfully
+2022-07-19 13:05:05,641 - logger_File -INFO - user should see 1 item on the cart.
+2022-07-19 13:05:05,705 - logger_File -INFO - user clicked on cart opotion
+2022-07-19 13:05:05,755 - logger_File -INFO - user removed the 1 item from cart.
+2022-07-19 13:05:05,892 - logger_File -INFO - cart get empty successfully
+2022-07-19 13:05:10,829 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-07-19 13:05:10,839 - logger_File -INFO - Scenario Product Comparison started
+2022-07-19 13:05:10,842 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-19 13:05:10,844 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-19 13:05:13,579 - logger_File -INFO - User is on Retail web page
+2022-07-19 13:05:13,653 - logger_File -INFO - user clicked on laptop &NoteBook tab
+2022-07-19 13:05:14,037 - logger_File -INFO - user click on show all Laptop &NoteBook option
+2022-07-19 13:05:18,178 - logger_File -INFO - user clicked on Macbook and Macbook air
+2022-07-19 13:05:22,284 - logger_File -INFO - user clicked on Macbook and Macbook air
+2022-07-19 13:05:24,585 - logger_File -INFO - user clicked on product comparison link
+2022-07-19 13:05:24,626 - logger_File -INFO - product comparison chart is displaye successfully
+2022-07-19 13:05:25,462 - logger_File -INFO - Scenario Product Comparison PASSED
+2022-07-19 13:05:25,483 - logger_File -INFO - Scenario Adding an item to Wish list started
+2022-07-19 13:05:25,490 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-19 13:05:25,496 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-19 13:05:28,307 - logger_File -INFO - User is on Retail web page
+2022-07-19 13:05:28,369 - logger_File -INFO - user clicked on laptop &NoteBook tab
+2022-07-19 13:05:28,747 - logger_File -INFO - user click on show all Laptop &NoteBook option
+2022-07-19 13:05:28,981 - logger_File -INFO - user need to login to his account
+2022-07-19 13:05:29,915 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-07-19 13:05:29,931 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-07-19 13:05:29,939 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-19 13:05:29,944 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-19 13:05:32,748 - logger_File -INFO - User is on Retail web page
+2022-07-19 13:05:32,818 - logger_File -INFO - user clicked on laptop &NoteBook tab
+2022-07-19 13:05:33,207 - logger_File -INFO - user click on show all Laptop &NoteBook option
+2022-07-19 13:05:34,332 - logger_File -INFO - user 
+2022-07-19 13:05:34,393 - logger_File -INFO - user should see price tag
+2022-07-19 13:05:39,364 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-07-19 13:17:39,813 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-19 13:17:40,233 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-19 13:17:40,242 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-19 13:17:42,881 - logger_File -INFO - User is on Retail web page
+2022-07-19 13:17:42,964 - logger_File -INFO - user clicked on my account successfully
+2022-07-19 13:17:44,173 - logger_File -INFO - user clicked on register for an Affiliate Account
+2022-07-19 13:17:51,908 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-07-19 13:17:51,926 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-19 13:17:51,933 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-19 13:17:51,938 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-19 13:17:54,371 - logger_File -INFO - User is on Retail web page
+2022-07-19 13:17:54,431 - logger_File -INFO - user clicked on my account successfully
+2022-07-19 13:17:59,136 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-07-19 13:17:59,153 - logger_File -INFO - Scenario Edit your account Information started
+2022-07-19 13:17:59,161 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-19 13:17:59,166 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-19 13:18:01,585 - logger_File -INFO - User is on Retail web page
+2022-07-19 13:18:01,655 - logger_File -INFO - user clicked on my account successfully
+2022-07-19 13:18:03,111 - logger_File -INFO - user clicked on edit account info
+2022-07-19 13:18:09,772 - logger_File -INFO - Scenario Edit your account Information PASSED
+2022-07-19 13:35:25,332 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-19 13:35:25,790 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-19 13:35:25,800 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-19 13:35:28,579 - logger_File -INFO - User is on Retail web page
+2022-07-19 13:35:28,650 - logger_File -INFO - user clicked on my account successfully
+2022-07-19 13:35:29,854 - logger_File -INFO - user clicked on register for an Affiliate Account
+2022-07-19 13:35:31,575 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-07-19 13:35:31,596 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-19 13:35:31,602 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-19 13:35:31,608 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-19 13:35:34,122 - logger_File -INFO - User is on Retail web page
+2022-07-19 13:35:34,182 - logger_File -INFO - user clicked on my account successfully
+2022-07-19 13:35:37,047 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-07-19 13:35:37,065 - logger_File -INFO - Scenario Edit your account Information started
+2022-07-19 13:35:37,077 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.53 (since Google Chrome 103 is installed in your machine)
+2022-07-19 13:35:37,085 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.53\chromedriver.exe
+2022-07-19 13:35:39,595 - logger_File -INFO - User is on Retail web page
+2022-07-19 13:35:39,666 - logger_File -INFO - user clicked on my account successfully
+2022-07-19 13:35:41,135 - logger_File -INFO - user clicked on edit account info
+2022-07-19 13:35:42,989 - logger_File -INFO - Scenario Edit your account Information PASSED
+2022-07-30 09:02:08,785 - logger_File -INFO - Scenario User verify currency values change started
+2022-07-30 09:02:10,057 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-30 09:02:10,070 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2022-07-30 09:02:10,423 - io.github.bonigarcia.wdm.Downloader -INFO - Downloading https://chromedriver.storage.googleapis.com/103.0.5060.134/chromedriver_win32.zip
+2022-07-30 09:02:10,770 - io.github.bonigarcia.wdm.Downloader -INFO - Extracting binary from compressed file chromedriver_win32.zip
+2022-07-30 09:02:10,889 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-30 09:02:14,872 - logger_File -INFO - User is on Retail web page
+2022-07-30 09:02:14,915 - logger_File -INFO - User clicked on currency!
+2022-07-30 09:02:15,061 - logger_File -INFO - user clicked on Euro dropdown
+2022-07-30 09:02:17,123 - logger_File -INFO - user change currency to Euro successfully
+2022-07-30 09:02:18,084 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-07-30 09:02:18,115 - logger_File -INFO - Scenario User empty Shopping cart message displays started
+2022-07-30 09:02:18,124 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-30 09:02:18,130 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-30 09:02:20,565 - logger_File -INFO - User is on Retail web page
+2022-07-30 09:02:22,644 - logger_File -INFO - user see on empty cart
+2022-07-30 09:02:22,682 - logger_File -INFO - user shopping cart is empty
+2022-07-30 09:02:23,831 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-07-30 09:03:56,795 - logger_File -INFO - Scenario User verify all items are present in Desktops tab started
+2022-07-30 09:03:57,211 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-30 09:03:57,220 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-30 09:03:59,952 - logger_File -INFO - User is on Retail web page
+2022-07-30 09:04:00,039 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-07-30 09:04:00,556 - logger_File -INFO - user clicked on show all desktop successfully
+2022-07-30 09:04:00,770 - logger_File -INFO - user was able to see the items are present in desktop 
+2022-07-30 09:04:01,578 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-07-30 09:04:01,605 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-07-30 09:04:01,613 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-30 09:04:01,620 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-30 09:04:03,996 - logger_File -INFO - User is on Retail web page
+2022-07-30 09:04:04,083 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-07-30 09:04:04,554 - logger_File -INFO - user clicked on show all desktop successfully
+2022-07-30 09:04:04,621 - logger_File -INFO - LPHP3065 was added to the cart successfully
+2022-07-30 09:04:07,776 - logger_File -INFO - Item successfully added to the cart
+2022-07-30 09:04:07,834 - logger_File -INFO - user clicked on add to cart button
+2022-07-30 09:04:12,837 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-07-30 09:04:12,849 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-30 09:04:12,852 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-30 09:04:12,855 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-30 09:04:15,177 - logger_File -INFO - User is on Retail web page
+2022-07-30 09:04:15,262 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-07-30 09:04:15,749 - logger_File -INFO - user clicked on show all desktop successfully
+2022-07-30 09:04:15,832 - logger_File -INFO - user clicked camera Eos
+2022-07-30 09:04:16,857 - logger_File -INFO - user select red color camera successfully
+2022-07-30 09:04:19,154 - logger_File -INFO - Item successfully added to the cart
+2022-07-30 09:04:19,207 - logger_File -INFO - user clicked on add to cart button
+2022-07-30 09:04:24,244 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-07-30 09:04:24,265 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-30 09:04:24,272 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-30 09:04:24,275 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-30 09:04:26,573 - logger_File -INFO - User is on Retail web page
+2022-07-30 09:04:26,638 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-07-30 09:04:27,121 - logger_File -INFO - user clicked on show all desktop successfully
+2022-07-30 09:04:27,966 - logger_File -INFO - user clicked on canon amera successfully
+2022-07-30 09:04:28,028 - logger_File -INFO - user clicked on Reeview link successfully
+2022-07-30 09:04:28,401 - logger_File -INFO - user write a review successfully
+2022-07-30 09:04:28,448 - logger_File -INFO - user clicked on continue button successfully
+2022-07-30 09:04:28,586 - logger_File -INFO - user verified success message of reviewing successfully
+2022-07-30 09:04:33,370 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-30 09:05:34,853 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart started
+2022-07-30 09:05:35,323 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-30 09:05:35,332 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-30 09:05:37,952 - logger_File -INFO - User is on Retail web page
+2022-07-30 09:05:38,020 - logger_File -INFO - user clicked on laptop &NoteBook tab
+2022-07-30 09:05:38,412 - logger_File -INFO - user click on show all Laptop &NoteBook option
+2022-07-30 09:05:39,335 - logger_File -INFO - user clicked on mac book link successfully
+2022-07-30 09:05:39,408 - logger_File -INFO - user clicked on add to cart successfully
+2022-07-30 09:05:39,674 - logger_File -INFO - user should see 1 item on the cart.
+2022-07-30 09:05:39,720 - logger_File -INFO - user clicked on cart opotion
+2022-07-30 09:05:39,769 - logger_File -INFO - user removed the 1 item from cart.
+2022-07-30 09:05:39,973 - logger_File -INFO - cart get empty successfully
+2022-07-30 09:05:44,871 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-07-30 09:05:44,881 - logger_File -INFO - Scenario Product Comparison started
+2022-07-30 09:05:44,885 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-30 09:05:44,887 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-30 09:05:47,136 - logger_File -INFO - User is on Retail web page
+2022-07-30 09:05:47,204 - logger_File -INFO - user clicked on laptop &NoteBook tab
+2022-07-30 09:05:47,685 - logger_File -INFO - user click on show all Laptop &NoteBook option
+2022-07-30 09:05:51,806 - logger_File -INFO - user clicked on Macbook and Macbook air
+2022-07-30 09:05:55,913 - logger_File -INFO - user clicked on Macbook and Macbook air
+2022-07-30 09:05:58,248 - logger_File -INFO - user clicked on product comparison link
+2022-07-30 09:05:58,293 - logger_File -INFO - product comparison chart is displaye successfully
+2022-07-30 09:05:59,067 - logger_File -INFO - Scenario Product Comparison PASSED
+2022-07-30 09:05:59,082 - logger_File -INFO - Scenario Adding an item to Wish list started
+2022-07-30 09:05:59,088 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-30 09:05:59,094 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-30 09:06:01,498 - logger_File -INFO - User is on Retail web page
+2022-07-30 09:06:01,560 - logger_File -INFO - user clicked on laptop &NoteBook tab
+2022-07-30 09:06:01,961 - logger_File -INFO - user click on show all Laptop &NoteBook option
+2022-07-30 09:06:02,178 - logger_File -INFO - user need to login to his account
+2022-07-30 09:06:03,053 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-07-30 09:06:03,069 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-07-30 09:06:03,074 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-30 09:06:03,079 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-30 09:06:05,473 - logger_File -INFO - User is on Retail web page
+2022-07-30 09:06:05,547 - logger_File -INFO - user clicked on laptop &NoteBook tab
+2022-07-30 09:06:05,931 - logger_File -INFO - user click on show all Laptop &NoteBook option
+2022-07-30 09:06:06,802 - logger_File -INFO - user 
+2022-07-30 09:06:06,858 - logger_File -INFO - user should see price tag
+2022-07-30 09:06:11,748 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-07-30 09:13:58,971 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-30 09:13:59,399 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-30 09:13:59,407 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-30 09:14:01,915 - logger_File -INFO - User is on Retail web page
+2022-07-30 09:14:01,989 - logger_File -INFO - user clicked on my account successfully
+2022-07-30 09:14:02,410 - logger_File -INFO - Uuser should enter user name and password
+2022-07-30 09:14:03,054 - logger_File -INFO - user clicked on register for an Affiliate Account
+2022-07-30 09:14:04,685 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-07-30 09:14:04,706 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-30 09:14:04,714 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-30 09:14:04,718 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-30 09:14:07,145 - logger_File -INFO - User is on Retail web page
+2022-07-30 09:14:07,209 - logger_File -INFO - user clicked on my account successfully
+2022-07-30 09:14:07,611 - logger_File -INFO - Uuser should enter user name and password
+2022-07-30 09:14:09,926 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-07-30 09:14:09,942 - logger_File -INFO - Scenario Edit your account Information started
+2022-07-30 09:14:09,951 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-30 09:14:09,956 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-30 09:14:12,333 - logger_File -INFO - User is on Retail web page
+2022-07-30 09:14:12,406 - logger_File -INFO - user clicked on my account successfully
+2022-07-30 09:14:12,844 - logger_File -INFO - Uuser should enter user name and password
+2022-07-30 09:14:13,788 - logger_File -INFO - user clicked on edit account info
+2022-07-30 09:14:15,553 - logger_File -INFO - Scenario Edit your account Information PASSED
+2022-07-30 10:02:48,474 - logger_File -INFO - Scenario User verify all items are present in Desktops tab started
+2022-07-30 10:02:48,907 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-30 10:02:48,916 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-30 10:02:52,023 - logger_File -INFO - User is on Retail web page
+2022-07-30 10:02:52,108 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-07-30 10:02:52,597 - logger_File -INFO - user clicked on show all desktop successfully
+2022-07-30 10:02:52,804 - logger_File -INFO - user was able to see the items are present in desktop 
+2022-07-30 10:02:53,565 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-07-30 10:02:53,590 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-07-30 10:02:53,598 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-30 10:02:53,603 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-30 10:02:56,153 - logger_File -INFO - User is on Retail web page
+2022-07-30 10:02:56,246 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-07-30 10:02:56,704 - logger_File -INFO - user clicked on show all desktop successfully
+2022-07-30 10:02:56,768 - logger_File -INFO - LPHP3065 was added to the cart successfully
+2022-07-30 10:02:59,984 - logger_File -INFO - Item successfully added to the cart
+2022-07-30 10:03:00,048 - logger_File -INFO - user clicked on add to cart button
+2022-07-30 10:03:05,036 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-07-30 10:03:05,047 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-30 10:03:05,052 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-30 10:03:05,054 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-30 10:03:07,381 - logger_File -INFO - User is on Retail web page
+2022-07-30 10:03:07,444 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-07-30 10:03:07,897 - logger_File -INFO - user clicked on show all desktop successfully
+2022-07-30 10:03:07,978 - logger_File -INFO - user clicked camera Eos
+2022-07-30 10:03:09,037 - logger_File -INFO - user select red color camera successfully
+2022-07-30 10:03:11,349 - logger_File -INFO - Item successfully added to the cart
+2022-07-30 10:03:11,405 - logger_File -INFO - user clicked on add to cart button
+2022-07-30 10:03:16,380 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-07-30 10:03:16,393 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-30 10:03:16,397 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-30 10:03:16,400 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-30 10:03:18,613 - logger_File -INFO - User is on Retail web page
+2022-07-30 10:03:18,688 - logger_File -INFO - user clicked Desktop Tab successfully
+2022-07-30 10:03:19,159 - logger_File -INFO - user clicked on show all desktop successfully
+2022-07-30 10:03:20,061 - logger_File -INFO - user clicked on canon amera successfully
+2022-07-30 10:03:20,137 - logger_File -INFO - user clicked on Reeview link successfully
+2022-07-30 10:03:20,547 - logger_File -INFO - user write a review successfully
+2022-07-30 10:03:20,603 - logger_File -INFO - user clicked on continue button successfully
+2022-07-30 10:03:20,749 - logger_File -INFO - user verified success message of reviewing successfully
+2022-07-30 10:03:25,535 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-07-30 10:03:25,544 - logger_File -INFO - Scenario User verify currency values change started
+2022-07-30 10:03:25,549 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-30 10:03:25,553 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-30 10:03:27,779 - logger_File -INFO - User is on Retail web page
+2022-07-30 10:03:27,840 - logger_File -INFO - User clicked on currency!
+2022-07-30 10:03:28,002 - logger_File -INFO - user clicked on Euro dropdown
+2022-07-30 10:03:30,067 - logger_File -INFO - user change currency to Euro successfully
+2022-07-30 10:03:30,995 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-07-30 10:03:31,007 - logger_File -INFO - Scenario User empty Shopping cart message displays started
+2022-07-30 10:03:31,012 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-30 10:03:31,017 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-30 10:03:33,433 - logger_File -INFO - User is on Retail web page
+2022-07-30 10:03:35,509 - logger_File -INFO - user see on empty cart
+2022-07-30 10:03:35,550 - logger_File -INFO - user shopping cart is empty
+2022-07-30 10:03:36,579 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-07-30 10:03:36,592 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart started
+2022-07-30 10:03:36,599 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-30 10:03:36,603 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-30 10:03:38,936 - logger_File -INFO - User is on Retail web page
+2022-07-30 10:03:39,005 - logger_File -INFO - user clicked on laptop &NoteBook tab
+2022-07-30 10:03:39,417 - logger_File -INFO - user click on show all Laptop &NoteBook option
+2022-07-30 10:03:40,272 - logger_File -INFO - user clicked on mac book link successfully
+2022-07-30 10:03:40,344 - logger_File -INFO - user clicked on add to cart successfully
+2022-07-30 10:03:40,592 - logger_File -INFO - user should see 1 item on the cart.
+2022-07-30 10:03:40,661 - logger_File -INFO - user clicked on cart opotion
+2022-07-30 10:03:40,727 - logger_File -INFO - user removed the 1 item from cart.
+2022-07-30 10:03:40,876 - logger_File -INFO - cart get empty successfully
+2022-07-30 10:03:45,939 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-07-30 10:03:45,948 - logger_File -INFO - Scenario Product Comparison started
+2022-07-30 10:03:45,952 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-30 10:03:45,955 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-30 10:03:48,268 - logger_File -INFO - User is on Retail web page
+2022-07-30 10:03:48,344 - logger_File -INFO - user clicked on laptop &NoteBook tab
+2022-07-30 10:03:48,723 - logger_File -INFO - user click on show all Laptop &NoteBook option
+2022-07-30 10:03:52,858 - logger_File -INFO - user clicked on Macbook and Macbook air
+2022-07-30 10:03:56,958 - logger_File -INFO - user clicked on Macbook and Macbook air
+2022-07-30 10:03:59,277 - logger_File -INFO - user clicked on product comparison link
+2022-07-30 10:03:59,318 - logger_File -INFO - product comparison chart is displaye successfully
+2022-07-30 10:04:00,097 - logger_File -INFO - Scenario Product Comparison PASSED
+2022-07-30 10:04:00,107 - logger_File -INFO - Scenario Adding an item to Wish list started
+2022-07-30 10:04:00,113 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-30 10:04:00,117 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-30 10:04:02,509 - logger_File -INFO - User is on Retail web page
+2022-07-30 10:04:02,588 - logger_File -INFO - user clicked on laptop &NoteBook tab
+2022-07-30 10:04:02,970 - logger_File -INFO - user click on show all Laptop &NoteBook option
+2022-07-30 10:04:03,184 - logger_File -INFO - user need to login to his account
+2022-07-30 10:04:04,065 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-07-30 10:04:04,077 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-07-30 10:04:04,082 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-30 10:04:04,094 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-30 10:04:06,566 - logger_File -INFO - User is on Retail web page
+2022-07-30 10:04:06,634 - logger_File -INFO - user clicked on laptop &NoteBook tab
+2022-07-30 10:04:07,014 - logger_File -INFO - user click on show all Laptop &NoteBook option
+2022-07-30 10:04:07,952 - logger_File -INFO - user 
+2022-07-30 10:04:08,005 - logger_File -INFO - user should see price tag
+2022-07-30 10:04:12,894 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-07-30 10:04:12,902 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method started
+2022-07-30 10:04:12,904 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-30 10:04:12,909 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-30 10:04:15,222 - logger_File -INFO - User is on Retail web page
+2022-07-30 10:04:15,284 - logger_File -INFO - user clicked on my account successfully
+2022-07-30 10:04:15,706 - logger_File -INFO - Uuser should enter user name and password
+2022-07-30 10:04:16,399 - logger_File -INFO - user clicked on register for an Affiliate Account
+2022-07-30 10:04:18,078 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-07-30 10:04:18,089 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer started
+2022-07-30 10:04:18,094 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-30 10:04:18,098 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-30 10:04:20,423 - logger_File -INFO - User is on Retail web page
+2022-07-30 10:04:20,483 - logger_File -INFO - user clicked on my account successfully
+2022-07-30 10:04:20,911 - logger_File -INFO - Uuser should enter user name and password
+2022-07-30 10:04:23,209 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-07-30 10:04:23,220 - logger_File -INFO - Scenario Edit your account Information started
+2022-07-30 10:04:23,226 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 103.0.5060.134 (since Google Chrome 103 is installed in your machine)
+2022-07-30 10:04:23,229 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\masso\.m2\repository\webdriver\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-07-30 10:04:25,618 - logger_File -INFO - User is on Retail web page
+2022-07-30 10:04:25,677 - logger_File -INFO - user clicked on my account successfully
+2022-07-30 10:04:26,106 - logger_File -INFO - Uuser should enter user name and password
+2022-07-30 10:04:27,055 - logger_File -INFO - user clicked on edit account info
+2022-07-30 10:04:28,863 - logger_File -INFO - Scenario Edit your account Information PASSED
